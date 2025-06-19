@@ -18,7 +18,7 @@ Contact form
 
 
 
-### 🛠 Technologies Used
+### Technologies Used
 HTML5 - Website structure
 
 CSS3 - Styling with custom properties
